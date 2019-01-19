@@ -5,4 +5,4 @@ description:
 plugins:
   - jemoji
   - jekyll-mentions
-theme: jekyll-theme-modernist
+theme: minima
