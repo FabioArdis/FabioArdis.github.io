@@ -6,5 +6,5 @@ Hello there, I'm Fabio Ardis. I'm an Italian student and I program in the free t
 std::cout << "What a waste of time.\n";
 ```
 ## My projects:
->> - Games
->>   - Open Text RPG
+>> **Games**
+>> - Open Text RPG
