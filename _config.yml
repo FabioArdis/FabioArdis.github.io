@@ -2,6 +2,7 @@ title: Blog
 author: Fabio Ardis
 description:
   Welcome to my blog.
+theme: jekyll-theme-modernist
 plugins:
   - jemoji
-theme: jekyll-theme-modernist
+include: /_posts
