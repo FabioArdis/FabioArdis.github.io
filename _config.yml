@@ -4,5 +4,4 @@ description:
   Welcome to my blog.
 plugins:
   - jemoji
-  - jekyll-mentions
 theme: jekyll-theme-modernist
